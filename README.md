@@ -100,3 +100,7 @@ returns the product instance that has the highest star rating from this user
 User#remove_reviews(product)
 takes a Product (an instance of the Product class) and removes all of this user's reviews for that product
 you will have to delete any rows from the reviews table associated with this user and the product
+
+Author This repository is maintained by:
+
+Mallifs
